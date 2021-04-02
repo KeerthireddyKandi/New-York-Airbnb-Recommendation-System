@@ -1,17 +1,4 @@
-### KDD WeFive_HighFive (Group 1)
 
-
-Team Members:
-
-1. Akhil Chundarathil
-
-2. Akhila Vemana
-
-3. Akshara Gone
-
-4. Keerthi Reddy Kandi
-
-5. Koushik Koritala
 
 # Project Title: Mining and Modeling NYC Airbnb Data.
 
